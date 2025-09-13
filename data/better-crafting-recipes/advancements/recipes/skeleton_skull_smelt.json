@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "skeleton_skull_smelt": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "better-crafting-recipes:skeleton_skull_smelt"
+          }
+        ]
+      }
+    }
+    },
+  "rewards":{
+    "recipes": ["better-crafting-recipes:skeleton_skull_smelt"]
+  },
+  "requirements": [
+    [
+      "skeleton_skull_smelt"
+    ]
+  ]
+}

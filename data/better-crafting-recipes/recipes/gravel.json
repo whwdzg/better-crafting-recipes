@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "tag": "better-crafting-recipes:stone_resourse"
+  },
+  "result": "minecraft:gravel"
+}

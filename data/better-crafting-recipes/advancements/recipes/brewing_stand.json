@@ -1,0 +1,39 @@
+{
+  "criteria": {
+    "stone_resourse_crafting": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "better-crafting-recipes:stone_resourse_crafting",
+            "count": {
+              "min": 3
+            }
+          }
+        ]
+      }
+    },
+    "blaze_rod":{
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:blaze_rod"],
+            "count": {
+              "min": 1
+            }
+          }
+        ]
+      }
+    }   
+  },  
+  "rewards":{
+    "recipes": ["better-crafting-recipes:brewing_stand"]
+  },
+  "requirements": [
+    [
+      "stone_resourse_crafting",
+      "blaze_rod"
+    ]
+  ]
+}

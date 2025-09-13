@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    " X ",
+    " X "
+  ],
+  "key": {
+    "#": {
+     "tag":"better-crafting-recipes:stone_resourse_crafting"
+    },
+    "X": {
+      "item":"minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:stone_pickaxe"
+  }
+}
