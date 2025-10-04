@@ -1,6 +1,7 @@
 ﻿{
 	"pack": {
 		"pack_format": 61,
+		"supported_formats": [ 57, 61 ],
 		"description":"Add som useful recipes to Minecraft -by whwdzg"
 	}
 }
