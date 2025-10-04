@@ -2,8 +2,8 @@
 	"pack": {
 		"min_format": 71,
 		"max_format": [ 88, 0 ],
-		"pack_format": 71,
+		"pack_format": 81,
 		"supported_formats": [ 71, 81 ],
-		"description":"Add som useful recipes to Minecraft -by whwdzg"
+		"description":"Better Crafting Recipes | 更好的合成配方"
 	}
 }
