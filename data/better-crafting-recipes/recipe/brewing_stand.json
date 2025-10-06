@@ -5,12 +5,12 @@
     "###"
   ],
   "key": {
-    "#": 
-     "#better-crafting-recipes:stone_resource_crafting"
-    ,
-    "X": [
-     "minecraft:blaze_rod"
-    ]
+    "#": {
+     "tag":"better-crafting-recipes:stone_resource_crafting"
+    },
+    "X": {
+     "item":"minecraft:blaze_rod"
+    }
   },
   "result": {
     "id": "minecraft:brewing_stand"

@@ -6,6 +6,10 @@
       "count": 4
   },
   "ingredients": [
-      ["minecraft:amethyst_block"]
+      [
+          {
+              "item": "minecraft:amethyst_block" 
+          }
+      ]
   ]
 }

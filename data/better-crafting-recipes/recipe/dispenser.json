@@ -6,15 +6,15 @@
     "#X#"
   ],
   "key": {
-    "#": 
-     "#better-crafting-recipes:stone_resource_crafting"
-    ,
-    "X": [
-     "minecraft:redstone"
-    ],
-    "&": [
-     "minecraft:bow"
-    ]
+    "#": {
+     "tag":"better-crafting-recipes:stone_resource_crafting"
+    },
+    "X": {
+     "item": "minecraft:redstone"
+    },
+    "&": {
+     "item":"minecraft:bow"
+    }
   },
   "result": {
     "id": "minecraft:dispenser"

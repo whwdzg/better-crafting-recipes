@@ -6,12 +6,12 @@
     " X"
   ],
   "key": {
-    "#": 
-     "#better-crafting-recipes:stone_resource_crafting"
-    ,
-    "X": [
-       "minecraft:stick"
-    ]
+    "#": {
+     "tag":"better-crafting-recipes:stone_resource_crafting"
+    },
+    "X": {
+       "item":"minecraft:stick"
+    }
   },
   "result": {
     "id": "minecraft:stone_axe"

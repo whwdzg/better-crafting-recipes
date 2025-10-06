@@ -6,9 +6,9 @@
   },
   "ingredients": [
       [
-          
-               "magma_block" 
-          
+          {
+              "item": "magma_block" 
+          }
       ]
   ]
 }

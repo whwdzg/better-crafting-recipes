@@ -6,8 +6,9 @@
     "###"
   ],
   "key": {
-    "#": 
-     "#better-crafting-recipes:stone_resource_crafting"
+    "#": {
+     "tag":"better-crafting-recipes:stone_resource_crafting"
+    }
   },
   "result": {
     "id": "minecraft:furnace"

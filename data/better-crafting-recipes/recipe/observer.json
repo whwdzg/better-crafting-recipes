@@ -6,15 +6,15 @@
     "###"
   ],
   "key": {
-    "#": 
-     "#better-crafting-recipes:stone_resource_crafting"
-    ,
-    "X": [
-     "minecraft:redstone"
-    ],
-    "&": [
-     "minecraft:quartz"
-    ]
+    "#": {
+     "tag":"better-crafting-recipes:stone_resource_crafting"
+    },
+    "X": {
+     "item": "minecraft:redstone"
+    },
+    "&": {
+     "item":"minecraft:quartz"
+    }
   },
   "result": {
     "id": "minecraft:observer"

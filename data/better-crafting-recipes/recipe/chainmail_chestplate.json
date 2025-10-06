@@ -7,9 +7,9 @@
     "###"
   ],
   "key": {
-    "#": [
-      "minecraft:chain"
-    ]
+    "#": {
+      "item": "minecraft:chain"
+    }
   },
   "result": {
     "id": "minecraft:chainmail_chestplate"

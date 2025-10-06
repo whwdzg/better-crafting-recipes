@@ -7,9 +7,9 @@
   },
   "ingredients": [
       [
-          
-               "minecraft:dripstone_block" 
-          
+          {
+              "item": "minecraft:dripstone_block" 
+          }
       ]
   ]
 }

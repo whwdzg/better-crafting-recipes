@@ -6,9 +6,9 @@
   },
   "ingredients": [
       [
-          
-               "white_wool" 
-          
+          {
+              "item": "white_wool" 
+          }
       ]
   ]
 }

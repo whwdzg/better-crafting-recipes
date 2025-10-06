@@ -7,14 +7,14 @@
   },
   "ingredients": [
       [
-          
-               "minecraft:ice" 
-          
+          {
+              "item":"minecraft:ice" 
+          }
       ],
       [
-        
-             "minecraft:bucket" 
-        
+        {
+             "item":"minecraft:bucket" 
+        }
       ]
   ]
 }

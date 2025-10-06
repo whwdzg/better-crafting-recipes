@@ -5,9 +5,9 @@
     "##"
   ],
   "key": {
-    "#": [
-     "minecraft:echo_shard"
-    ]
+    "#": {
+     "item":"minecraft:echo_shard"
+    }
   },
   "result": {
     "id": "minecraft:sculk",

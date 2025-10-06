@@ -6,12 +6,12 @@
     "#X#"
   ],
   "key": {
-    "#": 
-     "#better-crafting-recipes:stone_resource_crafting"
-    ,
-    "X": [
-     "minecraft:redstone"
-    ]
+    "#": {
+     "tag":"better-crafting-recipes:stone_resource_crafting"
+    },
+    "X": {
+     "item": "minecraft:redstone"
+    }
   },
   "result": {
     "id": "minecraft:dropper"

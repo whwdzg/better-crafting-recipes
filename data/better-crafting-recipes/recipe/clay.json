@@ -1,8 +1,8 @@
 {
   "type": "minecraft:smelting",
-  "ingredient": [
-    "minecraft:mud"
-  ],
+  "ingredient": {
+    "item": "minecraft:mud"
+  },
   "result": {
       "id": "minecraft:clay"
     },

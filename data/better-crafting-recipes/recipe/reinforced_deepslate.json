@@ -4,12 +4,12 @@
     "#X#"
   ],
   "key": {
-    "#": [
-     "minecraft:bone"
-    ],
-    "X": [
-      "minecraft:deepslate"
-    ]
+    "#": {
+     "item":"minecraft:bone"
+    },
+    "X": {
+      "item": "minecraft:deepslate"
+    }
   },
   "result": {
     "id": "minecraft:reinforced_deepslate",

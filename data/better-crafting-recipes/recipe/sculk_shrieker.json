@@ -5,12 +5,12 @@
     "XX"
   ],
   "key": {
-    "#": [
-     "minecraft:bone"
-    ],
-    "X": [
-       "minecraft:sculk"
-    ]
+    "#": {
+     "item":"minecraft:bone"
+    },
+    "X": {
+     "item":"minecraft:sculk"
+    }
   },
   "result": {
     "id": "minecraft:sculk_shrieker",

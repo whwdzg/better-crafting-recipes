@@ -7,14 +7,14 @@
   },
   "ingredients": [
       [
-          
-               "minecraft:snow_block" 
-          
+          {
+            "item":"minecraft:snow_block" 
+          }
       ],
       [
-        
-             "minecraft:bucket" 
-        
+        {
+            "item":"minecraft:bucket" 
+        }
       ]
   ]
 }

@@ -6,9 +6,9 @@
     },
     "ingredients": [
         [
-            
-                 "minecraft:nether_wart_block" 
-            
+            {
+                "item": "minecraft:nether_wart_block" 
+            }
         ]
     ]
 }

@@ -6,7 +6,9 @@
   },
   "ingredients": [
       [
-           "minecraft:glowstone" 
+          {
+              "item": "minecraft:glowstone" 
+          }
       ]
   ]
 }

@@ -5,5 +5,9 @@
       "count": 3
   },
   "ingredients": 
-    ["#better-crafting-recipes:sugar_resource_3"]
+     [
+    {
+      "tag":"better-crafting-recipes:sugar_resource_3"
+    }
+  ]
 }
