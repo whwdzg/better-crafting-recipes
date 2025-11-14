@@ -6,7 +6,7 @@
                 "recipe_id": "better-crafting-recipes:chainmail_boots",
                 "ingredients": [
                     {
-                        "items": ["minecraft:chain"]
+                        "items": ["minecraft:iron_chain"]
                     }
                 ]
             }
@@ -17,7 +17,7 @@
                 "recipe_id": "better-crafting-recipes:chainmail_leggings",
                 "ingredients": [
                     {
-                        "items": ["minecraft:chain"]
+                        "items": ["minecraft:iron_chain"]
                     }
                 ]
             }
@@ -28,7 +28,7 @@
                 "recipe_id": "better-crafting-recipes:chainmail_chestplate",
                 "ingredients": [
                     {
-                        "items": ["minecraft:chain"]
+                        "items": ["minecraft:iron_chain"]
                     }
                 ]
             }
@@ -39,7 +39,7 @@
                 "recipe_id": "better-crafting-recipes:chainmail_helmet",
                 "ingredients": [
                     {
-                        "items": ["minecraft:chain"]
+                        "items": ["minecraft:iron_chain"]
                     }
                 ]
             }
