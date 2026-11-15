@@ -1,9 +1,9 @@
 ﻿{
 	"pack": {
 		"min_format": 88,
-		"max_format": [ 107, 1 ],
+		"max_format": [ 94, 1 ],
 		"pack_format": 88,
-		"supported_formats": [ 88, 107 ],
+		"supported_formats": [ 88, 94 ],
 		"description":"Better Crafting Recipes | 更好的合成配方"
 	}
 }
