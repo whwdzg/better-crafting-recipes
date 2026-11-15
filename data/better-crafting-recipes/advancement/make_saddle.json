@@ -3,7 +3,7 @@
         "saddle": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipes": [ "better-crafting-recipes:saddle" ],
+                "recipes": [ "minecraft:saddle" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:iron_ingot","minecraft:leather","minecraft:string"]

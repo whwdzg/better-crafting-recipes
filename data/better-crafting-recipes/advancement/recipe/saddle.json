@@ -38,7 +38,7 @@
     }
     },
   "rewards":{
-    "recipes": ["better-crafting-recipes:saddle"]
+    "recipes": ["minecraft:saddle"]
   },
   "requirements": [
     [
