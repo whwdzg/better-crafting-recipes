@@ -3,7 +3,9 @@
   "category": "misc",
   "ingredients": [
     [
-      "#better-crafting-recipes:copper_blocks"
+      {
+        "tag": "better-crafting-recipes:copper_blocks"
+      }
     ]
   ],
   "result": {
