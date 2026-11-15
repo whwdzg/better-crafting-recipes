@@ -1,7 +1,7 @@
-{
-    "criteria": {   
-        "stone_pickaxe": {    
-            "trigger": "minecraft:recipe_crafted",    
+﻿{
+    "criteria": {
+        "stone_pickaxe": {
+            "trigger": "minecraft:recipe_crafted",
             "conditions": {
                 "recipe_id": "better-crafting-recipes:stone_pickaxe",
                 "ingredients": [
@@ -11,8 +11,8 @@
                 ]
             }
         },
-        "stone_axe": {    
-            "trigger": "minecraft:recipe_crafted",    
+        "stone_axe": {
+            "trigger": "minecraft:recipe_crafted",
             "conditions": {
                 "recipe_id": "better-crafting-recipes:stone_axe",
                 "ingredients": [
@@ -22,8 +22,8 @@
                 ]
             }
         },
-        "stone_hoe": {    
-            "trigger": "minecraft:recipe_crafted",    
+        "stone_hoe": {
+            "trigger": "minecraft:recipe_crafted",
             "conditions": {
                 "recipe_id": "better-crafting-recipes:stone_hoe",
                 "ingredients": [
@@ -33,9 +33,8 @@
                 ]
             }
         },
-        
-        "stone_shovel": {    
-            "trigger": "minecraft:recipe_crafted",    
+        "stone_shovel": {
+            "trigger": "minecraft:recipe_crafted",
             "conditions": {
                 "recipe_id": "better-crafting-recipes:stone_shovel",
                 "ingredients": [
@@ -45,10 +44,21 @@
                 ]
             }
         },
-        "stone_sword": {    
-            "trigger": "minecraft:recipe_crafted",    
+        "stone_sword": {
+            "trigger": "minecraft:recipe_crafted",
             "conditions": {
                 "recipe_id": "better-crafting-recipes:stone_sword",
+                "ingredients": [
+                    {
+                        "items": "#better-crafting-recipes:stone_resource_crafting"
+                    }
+                ]
+            }
+        },
+        "stone_spear": {
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "better-crafting-recipes:stone_spear",
                 "ingredients": [
                     {
                         "items": "#better-crafting-recipes:stone_resource_crafting"
@@ -58,25 +68,32 @@
         }
     },
     "display": {
-        "icon": {    
+        "icon": {
             "id": "minecraft:stone_pickaxe"
-         },
-         "title": {
-             "translate": "石质工具扩展"
-         },
-         "description": {
-             "translate": "用各类石头制成工具，从此废石不再是废石。"
-         },
-         "frame": "task",    
-         "announce_to_chat": false,     
-         "hidden": false,   
-         "show_toast": true
+        },
+        "title": {
+            "translate": "石质工具扩展"
+        },
+        "description": {
+            "translate": "用各类石头制成工具，从此废石不再是废石。"
+        },
+        "frame": "task",
+        "announce_to_chat": false,
+        "hidden": false,
+        "show_toast": true
     },
     "parent": "better-crafting-recipes:better-crafting-recipes",
-    "requirements": [    
-        ["stone_pickaxe","stone_axe","stone_hoe","stone_shovel","stone_sword"]
+    "requirements": [
+        [
+            "stone_pickaxe",
+            "stone_axe",
+            "stone_hoe",
+            "stone_shovel",
+            "stone_sword",
+            "stone_spear"
+        ]
     ],
-    "rewards": {    
-        "experience": 10    
+    "rewards": {
+        "experience": 10
     }
 }
