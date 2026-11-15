@@ -1,7 +1,7 @@
-{
-    "criteria": {   
-        "amethyst_block_decomposition": {    
-            "trigger": "minecraft:recipe_crafted",    
+﻿{
+    "criteria": {
+        "amethyst_block_decomposition": {
+            "trigger": "minecraft:recipe_crafted",
             "conditions": {
                 "recipe_id": "better-crafting-recipes:amethyst_shard",
                 "ingredients": [
@@ -11,8 +11,8 @@
                 ]
             }
         },
-        "quartz_block_decomposition": {    
-            "trigger": "minecraft:recipe_crafted",    
+        "quartz_block_decomposition": {
+            "trigger": "minecraft:recipe_crafted",
             "conditions": {
                 "recipe_id": "better-crafting-recipes:quartz",
                 "ingredients": [
@@ -22,8 +22,8 @@
                 ]
             }
         },
-        "glowstone_decomposition": {    
-            "trigger": "minecraft:recipe_crafted",    
+        "glowstone_decomposition": {
+            "trigger": "minecraft:recipe_crafted",
             "conditions": {
                 "recipe_id": "better-crafting-recipes:glowstone_dust",
                 "ingredients": [
@@ -33,8 +33,8 @@
                 ]
             }
         },
-        "clay_decomposition": {    
-            "trigger": "minecraft:recipe_crafted",    
+        "clay_decomposition": {
+            "trigger": "minecraft:recipe_crafted",
             "conditions": {
                 "recipe_id": "better-crafting-recipes:clay_ball",
                 "ingredients": [
@@ -44,8 +44,8 @@
                 ]
             }
         },
-        "nether_wart_decomposition": {    
-            "trigger": "minecraft:recipe_crafted",    
+        "nether_wart_decomposition": {
+            "trigger": "minecraft:recipe_crafted",
             "conditions": {
                 "recipe_id": "better-crafting-recipes:nether_wart",
                 "ingredients": [
@@ -55,8 +55,8 @@
                 ]
             }
         },
-        "magma_block_decomposition": {    
-            "trigger": "minecraft:recipe_crafted",    
+        "magma_block_decomposition": {
+            "trigger": "minecraft:recipe_crafted",
             "conditions": {
                 "recipe_id": "better-crafting-recipes:magma_cream",
                 "ingredients": [
@@ -66,8 +66,8 @@
                 ]
             }
         },
-        "dripstone_block_decomposition": {    
-            "trigger": "minecraft:recipe_crafted",    
+        "dripstone_block_decomposition": {
+            "trigger": "minecraft:recipe_crafted",
             "conditions": {
                 "recipe_id": "better-crafting-recipes:pointed_dripstone",
                 "ingredients": [
@@ -76,28 +76,48 @@
                     }
                 ]
             }
+        },
+        "copper_block_decomposition": {
+            "trigger": "minecraft:recipe_crafted",
+            "conditions": {
+                "recipe_id": "better-crafting-recipes:copper_ingot",
+                "ingredients": [
+                    {
+                        "items": "#better-crafting-recipes:copper_blocks"
+                    }
+                ]
+            }
         }
     },
     "display": {
-        "icon": {    
+        "icon": {
             "id": "minecraft:amethyst_block"
-         },
-         "title": {
-             "translate": "早该如此"
-         },
-         "description": {
-             "translate": "分解原本不可分解的方块，然后开始质问Mojang"
-         },
-         "frame": "task",    
-         "announce_to_chat": false,     
-         "hidden": false,   
-         "show_toast": true
+        },
+        "title": {
+            "translate": "早该如此"
+        },
+        "description": {
+            "translate": "分解原本不可分解的方块，然后开始质问Mojang"
+        },
+        "frame": "task",
+        "announce_to_chat": false,
+        "hidden": false,
+        "show_toast": true
     },
     "parent": "better-crafting-recipes:better-crafting-recipes",
-    "requirements": [    
-        ["amethyst_block_decomposition","quartz_block_decomposition","glowstone_decomposition","clay_decomposition","nether_wart_decomposition","magma_block_decomposition","dripstone_block_decomposition"]
+    "requirements": [
+        [
+            "amethyst_block_decomposition",
+            "quartz_block_decomposition",
+            "glowstone_decomposition",
+            "clay_decomposition",
+            "nether_wart_decomposition",
+            "magma_block_decomposition",
+            "dripstone_block_decomposition",
+            "copper_block_decomposition"
+        ]
     ],
-    "rewards": {    
-        "experience": 10    
+    "rewards": {
+        "experience": 10
     }
 }
