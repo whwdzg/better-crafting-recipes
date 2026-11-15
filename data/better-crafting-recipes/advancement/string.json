@@ -3,7 +3,7 @@
         "string": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:string",
+                "recipes": [ "better-crafting-recipes:string" ],
                 "ingredients": [
                     {
                         "items": "minecraft:white_wool"

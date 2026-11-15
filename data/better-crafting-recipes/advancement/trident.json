@@ -3,7 +3,7 @@
         "trident": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:trident",
+                "recipes": [ "better-crafting-recipes:trident" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:heart_of_the_sea","minecraft:diamond"]

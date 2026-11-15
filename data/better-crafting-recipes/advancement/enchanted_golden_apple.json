@@ -3,7 +3,7 @@
         "enchanted_golden_apple": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:enchanted_golden_apple",
+                "recipes": [ "better-crafting-recipes:enchanted_golden_apple" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:gold_block","minecraft:apple"]

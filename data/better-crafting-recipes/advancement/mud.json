@@ -3,7 +3,7 @@
         "mud": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:mud",
+                "recipes": [ "better-crafting-recipes:mud" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:water_bucket","minecraft:dirt"]

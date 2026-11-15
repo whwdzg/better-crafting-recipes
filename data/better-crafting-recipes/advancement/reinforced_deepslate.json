@@ -3,7 +3,7 @@
         "reinforced_deepslate": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:reinforced_deepslate",
+                "recipes": [ "better-crafting-recipes:reinforced_deepslate" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:deepslate","minecraft:bone"]

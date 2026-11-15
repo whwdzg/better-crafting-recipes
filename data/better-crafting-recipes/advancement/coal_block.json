@@ -3,7 +3,7 @@
         "coal_block": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:coal_block",
+                "recipes": [ "better-crafting-recipes:coal_block" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:charcoal"]

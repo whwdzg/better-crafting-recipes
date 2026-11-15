@@ -3,7 +3,7 @@
         "heart_of_the_sea": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:heart_of_the_sea",
+                "recipes": [ "better-crafting-recipes:heart_of_the_sea" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:prismarine_crystals","minecraft:prismarine_shard","minecraft:diamond"]

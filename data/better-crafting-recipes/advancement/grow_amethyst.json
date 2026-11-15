@@ -3,7 +3,7 @@
         "budding_amethyst": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:budding_amethyst",
+                "recipes": [ "better-crafting-recipes:budding_amethyst" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:amethyst_block", "minecraft:amethyst_shard"]

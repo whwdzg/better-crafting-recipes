@@ -3,7 +3,7 @@
         "light": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:light",
+                "recipes": [ "better-crafting-recipes:light" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:glass","minecraft:glass"]

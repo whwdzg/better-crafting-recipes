@@ -3,7 +3,7 @@
         "iron_horse_armor": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:iron_horse_armor",
+                "recipes": [ "better-crafting-recipes:iron_horse_armor" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:iron_ingot","minecraft:leather_horse_armor"]
@@ -14,7 +14,7 @@
         "golden_horse_armor": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:golden_horse_armor",
+                "recipes": [ "better-crafting-recipes:golden_horse_armor" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:gold_ingot","minecraft:leather_horse_armor"]
@@ -25,7 +25,7 @@
         "diamond_horse_armor": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:diamond_horse_armor",
+                "recipes": [ "better-crafting-recipes:diamond_horse_armor" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:diamond","minecraft:leather_horse_armor"]

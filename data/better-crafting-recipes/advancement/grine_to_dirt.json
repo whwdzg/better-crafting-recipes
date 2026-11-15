@@ -3,7 +3,7 @@
         "dirt":{
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:dirt",
+                "recipes": [ "better-crafting-recipes:dirt" ],
                 "ingredients": [
                     {
                         "items": "minecraft:coarse_dirt"

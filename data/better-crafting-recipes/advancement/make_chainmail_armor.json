@@ -3,7 +3,7 @@
         "chainmail_boots": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:chainmail_boots",
+                "recipes": [ "better-crafting-recipes:chainmail_boots" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:iron_chain"]
@@ -14,7 +14,7 @@
         "chainmail_leggings": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:chainmail_leggings",
+                "recipes": [ "better-crafting-recipes:chainmail_leggings" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:iron_chain"]
@@ -25,7 +25,7 @@
         "chainmail_chestplate": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:chainmail_chestplate",
+                "recipes": [ "better-crafting-recipes:chainmail_chestplate" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:iron_chain"]
@@ -36,7 +36,7 @@
         "chainmail_helmet": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:chainmail_helmet",
+                "recipes": [ "better-crafting-recipes:chainmail_helmet" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:iron_chain"]

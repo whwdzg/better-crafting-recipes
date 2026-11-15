@@ -3,7 +3,7 @@
         "gunpowder": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:gunpowder",
+                "recipes": [ "better-crafting-recipes:gunpowder" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:gravel","minecraft:flint","minecraft:coal","minecraft:sugar"]
@@ -14,7 +14,7 @@
         "gunpowder2":{
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:gunpowder2",
+                "recipes": [ "better-crafting-recipes:gunpowder2" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:gravel","minecraft:flint","minecraft:charcoal","minecraft:sugar"]

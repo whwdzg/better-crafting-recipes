@@ -3,7 +3,7 @@
         "amethyst_block_decomposition": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:amethyst_shard",
+                "recipes": [ "better-crafting-recipes:amethyst_shard" ],
                 "ingredients": [
                     {
                         "items": "minecraft:amethyst_block"
@@ -14,7 +14,7 @@
         "quartz_block_decomposition": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:quartz",
+                "recipes": [ "better-crafting-recipes:quartz" ],
                 "ingredients": [
                     {
                         "items": "minecraft:quartz_block"
@@ -25,7 +25,7 @@
         "glowstone_decomposition": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:glowstone_dust",
+                "recipes": [ "better-crafting-recipes:glowstone_dust" ],
                 "ingredients": [
                     {
                         "items": "minecraft:glowstone"
@@ -36,7 +36,7 @@
         "clay_decomposition": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:clay_ball",
+                "recipes": [ "better-crafting-recipes:clay_ball" ],
                 "ingredients": [
                     {
                         "items": "minecraft:clay"
@@ -47,7 +47,7 @@
         "nether_wart_decomposition": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:nether_wart",
+                "recipes": [ "better-crafting-recipes:nether_wart" ],
                 "ingredients": [
                     {
                         "items": "minecraft:nether_wart_block"
@@ -58,7 +58,7 @@
         "magma_block_decomposition": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:magma_cream",
+                "recipes": [ "better-crafting-recipes:magma_cream" ],
                 "ingredients": [
                     {
                         "items": "minecraft:magma_block"
@@ -69,7 +69,7 @@
         "dripstone_block_decomposition": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:pointed_dripstone",
+                "recipes": [ "better-crafting-recipes:pointed_dripstone" ],
                 "ingredients": [
                     {
                         "items": "minecraft:dripstone_block"

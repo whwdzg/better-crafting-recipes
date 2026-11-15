@@ -3,7 +3,7 @@
         "flint": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:flint",
+                "recipes": [ "better-crafting-recipes:flint" ],
                 "ingredients": [
                     {
                         "items": "minecraft:gravel"

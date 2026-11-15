@@ -3,7 +3,7 @@
         "bricks_decomposition": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:brick",
+                "recipes": [ "better-crafting-recipes:brick" ],
                 "ingredients": [
                     {
                         "items": "minecraft:bricks"
@@ -14,7 +14,7 @@
         "nether_bricks_decomposition": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:nether_brick",
+                "recipes": [ "better-crafting-recipes:nether_brick" ],
                 "ingredients": [
                     {
                         "items": "minecraft:nether_bricks"

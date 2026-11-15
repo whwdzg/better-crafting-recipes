@@ -3,7 +3,7 @@
         "experience_bottle": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:experience_bottle",
+                "recipes": [ "better-crafting-recipes:experience_bottle" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:lapis_lazuli","minecraft:glass_bottle"]

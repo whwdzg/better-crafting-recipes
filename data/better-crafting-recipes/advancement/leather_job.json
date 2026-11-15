@@ -3,7 +3,7 @@
         "rabbit_hide": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:rabbit_hide",
+                "recipes": [ "better-crafting-recipes:rabbit_hide" ],
                 "ingredients": [
                     {
                         "items":"minecraft:leather"

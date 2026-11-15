@@ -3,7 +3,7 @@
         "furnace": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:furnace",
+                "recipes": [ "better-crafting-recipes:furnace" ],
                 "ingredients": [
                     {
                         "items": "#better-crafting-recipes:stone_resource_crafting"
@@ -14,7 +14,7 @@
         "observer": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:observer",
+                "recipes": [ "better-crafting-recipes:observer" ],
                 "ingredients": [
                     {
                         "items": "#better-crafting-recipes:stone_resource_crafting"
@@ -25,7 +25,7 @@
         "dispenser": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:dispenser",
+                "recipes": [ "better-crafting-recipes:dispenser" ],
                 "ingredients": [
                     {
                         "items": "#better-crafting-recipes:stone_resource_crafting"
@@ -36,7 +36,7 @@
         "dropper": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:dropper",
+                "recipes": [ "better-crafting-recipes:dropper" ],
                 "ingredients": [
                     {
                         "items": "#better-crafting-recipes:stone_resource_crafting"
@@ -47,7 +47,7 @@
         "piston": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:piston",
+                "recipes": [ "better-crafting-recipes:piston" ],
                 "ingredients": [
                     {
                         "items": "#better-crafting-recipes:stone_resource_crafting"
@@ -58,7 +58,7 @@
         "brewing_stand": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:brewing_stand",
+                "recipes": [ "better-crafting-recipes:brewing_stand" ],
                 "ingredients": [
                     {
                         "items": "#better-crafting-recipes:stone_resource_crafting"

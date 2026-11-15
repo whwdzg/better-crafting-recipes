@@ -3,7 +3,7 @@
         "echo_shard": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:echo_shard",
+                "recipes": [ "better-crafting-recipes:echo_shard" ],
                 "ingredients": [
                     {
                         "items": "minecraft:sculk"
@@ -14,7 +14,7 @@
         "sculk": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:sculk",
+                "recipes": [ "better-crafting-recipes:sculk" ],
                 "ingredients": [
                     {
                         "items": "minecraft:echo_shard"

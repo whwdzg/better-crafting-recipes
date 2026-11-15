@@ -3,7 +3,7 @@
         "clay": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:clay",
+                "recipes": [ "better-crafting-recipes:clay" ],
                 "ingredients": [
                     {
                         "items": "minecraft:mud"

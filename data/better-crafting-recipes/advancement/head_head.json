@@ -3,7 +3,7 @@
         "zombie_head": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:zombie_head",
+                "recipes": [ "better-crafting-recipes:zombie_head" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:skeleton_skull","minecraft:rotten_flesh"]
@@ -14,7 +14,7 @@
         "creeper_head": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:creeper_head",
+                "recipes": [ "better-crafting-recipes:creeper_head" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:skeleton_skull","minecraft:gunpowder"]
@@ -25,7 +25,7 @@
         "piglin_head": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:piglin_head",
+                "recipes": [ "better-crafting-recipes:piglin_head" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:skeleton_skull","minecraft:porkchop"]

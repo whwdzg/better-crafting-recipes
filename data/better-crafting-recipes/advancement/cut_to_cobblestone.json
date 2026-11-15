@@ -3,7 +3,7 @@
         "cobblestone": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:cobblestone",
+                "recipes": [ "better-crafting-recipes:cobblestone" ],
                 "ingredients": [
                     {
                         "items": "minecraft:stone"
@@ -14,7 +14,7 @@
         "cobbled_deepslate": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:cobbled_deepslate",
+                "recipes": [ "better-crafting-recipes:cobbled_deepslate" ],
                 "ingredients": [
                     {
                         "items": "minecraft:deepslate"

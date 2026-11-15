@@ -3,7 +3,7 @@
         "cobweb": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:cobweb",
+                "recipes": [ "better-crafting-recipes:cobweb" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:string","minecraft:slime_ball"]

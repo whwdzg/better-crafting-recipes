@@ -3,7 +3,7 @@
         "skeleton_skull": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:skeleton_skull",
+                "recipes": [ "better-crafting-recipes:skeleton_skull" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:bone"]

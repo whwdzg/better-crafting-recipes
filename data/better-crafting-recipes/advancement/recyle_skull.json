@@ -3,7 +3,7 @@
         "skeleton_skull_smelt": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:skeleton_skull_smelt",
+                "recipes": [ "better-crafting-recipes:skeleton_skull_smelt" ],
                 "ingredients": [
                     {
                         "items": "#better-crafting-recipes:skeleton_skull_smelt"

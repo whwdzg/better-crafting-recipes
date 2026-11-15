@@ -3,7 +3,7 @@
         "water_bucket": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:water_bucket",
+                "recipes": [ "better-crafting-recipes:water_bucket" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:bucket","minecraft:ice"]
@@ -14,7 +14,7 @@
         "lava_bucket": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:lava_bucket",
+                "recipes": [ "better-crafting-recipes:lava_bucket" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:bucket","minecraft:magma_block"]
@@ -25,7 +25,7 @@
         "powder_snow_bucket": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:powder_snow_bucket",
+                "recipes": [ "better-crafting-recipes:powder_snow_bucket" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:bucket","minecraft:snow_block"]

@@ -3,7 +3,7 @@
         "sculk_catalyst": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:sculk_catalyst",
+                "recipes": [ "better-crafting-recipes:sculk_catalyst" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:sculk","minecraft:bone_block"]
@@ -14,7 +14,7 @@
         "sculk_sensor": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:sculk_sensor",
+                "recipes": [ "better-crafting-recipes:sculk_sensor" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:echo_shard","minecraft:sculk"]
@@ -25,7 +25,7 @@
         "sculk_shrieker": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:sculk_shrieker",
+                "recipes": [ "better-crafting-recipes:sculk_shrieker" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:sculk","minecraft:bone"]
@@ -36,7 +36,7 @@
         "sculk_vein": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:sculk_vein",
+                "recipes": [ "better-crafting-recipes:sculk_vein" ],
                 "ingredients": [
                     {
                         "items": "minecraft:sculk"

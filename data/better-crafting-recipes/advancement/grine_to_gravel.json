@@ -3,7 +3,7 @@
         "stone": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:gravel",
+                "recipes": [ "better-crafting-recipes:gravel" ],
                 "ingredients": [
                     {
                         "items": "#better-crafting-recipes:stone_resource"

@@ -3,7 +3,7 @@
         "leather": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:leather",
+                "recipes": [ "better-crafting-recipes:leather" ],
                 "ingredients": [
                     {
                         "items": "minecraft:rotten_flesh"

@@ -3,7 +3,7 @@
         "sand": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:sand",
+                "recipes": [ "better-crafting-recipes:sand" ],
                 "ingredients": [
                     {
                         "items": "minecraft:gravel"
@@ -14,7 +14,7 @@
         "red_sand": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:red_sand",
+                "recipes": [ "better-crafting-recipes:red_sand" ],
                 "ingredients": [
                     {
                         "items": "minecraft:gravel"
@@ -25,7 +25,7 @@
         "red_sand2":{
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:red_sand2",
+                "recipes": [ "better-crafting-recipes:red_sand2" ],
                 "ingredients": [
                     {
                         "items": "minecraft:terracotta"

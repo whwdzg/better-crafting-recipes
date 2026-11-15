@@ -3,7 +3,7 @@
         "stone_pickaxe": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stone_pickaxe",
+                "recipes": [ "better-crafting-recipes:stone_pickaxe" ],
                 "ingredients": [
                     {
                         "items": "#better-crafting-recipes:stone_resource_crafting"
@@ -14,7 +14,7 @@
         "stone_axe": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stone_axe",
+                "recipes": [ "better-crafting-recipes:stone_axe" ],
                 "ingredients": [
                     {
                         "items": "#better-crafting-recipes:stone_resource_crafting"
@@ -25,7 +25,7 @@
         "stone_hoe": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stone_hoe",
+                "recipes": [ "better-crafting-recipes:stone_hoe" ],
                 "ingredients": [
                     {
                         "items": "#better-crafting-recipes:stone_resource_crafting"
@@ -37,7 +37,7 @@
         "stone_shovel": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stone_shovel",
+                "recipes": [ "better-crafting-recipes:stone_shovel" ],
                 "ingredients": [
                     {
                         "items": "#better-crafting-recipes:stone_resource_crafting"
@@ -48,7 +48,7 @@
         "stone_sword": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stone_sword",
+                "recipes": [ "better-crafting-recipes:stone_sword" ],
                 "ingredients": [
                     {
                         "items": "#better-crafting-recipes:stone_resource_crafting"

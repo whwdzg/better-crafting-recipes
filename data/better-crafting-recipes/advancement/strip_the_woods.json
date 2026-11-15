@@ -3,7 +3,7 @@
         "acacia_log": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_acacia_log",
+                "recipes": [ "better-crafting-recipes:stripped_acacia_log" ],
                 "ingredients": [
                     {
                         "items": "minecraft:acacia_log"
@@ -14,7 +14,7 @@
         "acacia_wood": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_acacia_wood",
+                "recipes": [ "better-crafting-recipes:stripped_acacia_wood" ],
                 "ingredients": [
                     {
                         "items": "minecraft:acacia_wood"
@@ -25,7 +25,7 @@
         "bamboo_block": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_bamboo_block",
+                "recipes": [ "better-crafting-recipes:stripped_bamboo_block" ],
                 "ingredients": [
                     {
                         "items": "minecraft:bamboo_block"
@@ -36,7 +36,7 @@
         "birch_log": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_birch_log",
+                "recipes": [ "better-crafting-recipes:stripped_birch_log" ],
                 "ingredients": [
                     {
                         "items": "minecraft:birch_log"
@@ -47,7 +47,7 @@
         "birch_wood": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_birch_wood",
+                "recipes": [ "better-crafting-recipes:stripped_birch_wood" ],
                 "ingredients": [
                     {
                         "items": "minecraft:birch_wood"
@@ -58,7 +58,7 @@
         "cherry_log": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_cherry_log",
+                "recipes": [ "better-crafting-recipes:stripped_cherry_log" ],
                 "ingredients": [
                     {
                         "items": "minecraft:cherry_log"
@@ -69,7 +69,7 @@
         "cherry_wood": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_cherry_wood",
+                "recipes": [ "better-crafting-recipes:stripped_cherry_wood" ],
                 "ingredients": [
                     {
                         "items": "minecraft:cherry_wood"
@@ -80,7 +80,7 @@
         "crimson_hyphae": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_crimson_hyphae",
+                "recipes": [ "better-crafting-recipes:stripped_crimson_hyphae" ],
                 "ingredients": [
                     {
                         "items": "minecraft:crimson_hyphae"
@@ -91,7 +91,7 @@
         "crimson_stem": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_crimson_stem",
+                "recipes": [ "better-crafting-recipes:stripped_crimson_stem" ],
                 "ingredients": [
                     {
                         "items": "minecraft:crimson_stem"
@@ -102,7 +102,7 @@
         "dark_oak_log": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_dark_oak_log",
+                "recipes": [ "better-crafting-recipes:stripped_dark_oak_log" ],
                 "ingredients": [
                     {
                         "items": "minecraft:dark_oak_log"
@@ -113,7 +113,7 @@
         "dark_oak_wood": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_dark_oak_wood",
+                "recipes": [ "better-crafting-recipes:stripped_dark_oak_wood" ],
                 "ingredients": [
                     {
                         "items": "minecraft:dark_oak_wood"
@@ -124,7 +124,7 @@
         "jungle_log": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_jungle_log",
+                "recipes": [ "better-crafting-recipes:stripped_jungle_log" ],
                 "ingredients": [
                     {
                         "items": "minecraft:jungle_log"
@@ -135,7 +135,7 @@
         "jungle_wood": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_jungle_wood",
+                "recipes": [ "better-crafting-recipes:stripped_jungle_wood" ],
                 "ingredients": [
                     {
                         "items": "minecraft:jungle_wood"
@@ -146,7 +146,7 @@
         "mangrove_log": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_mangrove_log",
+                "recipes": [ "better-crafting-recipes:stripped_mangrove_log" ],
                 "ingredients": [
                     {
                         "items": "minecraft:mangrove_log"
@@ -157,7 +157,7 @@
         "mangrove_wood": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_mangrove_wood",
+                "recipes": [ "better-crafting-recipes:stripped_mangrove_wood" ],
                 "ingredients": [
                     {
                         "items": "minecraft:mangrove_wood"
@@ -168,7 +168,7 @@
         "oak_log": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_oak_log",
+                "recipes": [ "better-crafting-recipes:stripped_oak_log" ],
                 "ingredients": [
                     {
                         "items": "minecraft:oak_log"
@@ -179,7 +179,7 @@
         "oak_wood": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_oak_wood",
+                "recipes": [ "better-crafting-recipes:stripped_oak_wood" ],
                 "ingredients": [
                     {
                         "items": "minecraft:oak_wood"
@@ -190,7 +190,7 @@
         "spruce_log": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_spruce_log",
+                "recipes": [ "better-crafting-recipes:stripped_spruce_log" ],
                 "ingredients": [
                     {
                         "items": "minecraft:spruce_log"
@@ -201,7 +201,7 @@
         "spruce_wood": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_spruce_wood",
+                "recipes": [ "better-crafting-recipes:stripped_spruce_wood" ],
                 "ingredients": [
                     {
                         "items": "minecraft:spruce_wood"
@@ -212,7 +212,7 @@
         "warped_hyphae": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_warped_hyphae",
+                "recipes": [ "better-crafting-recipes:stripped_warped_hyphae" ],
                 "ingredients": [
                     {
                         "items": "minecraft:warped_hyphae"
@@ -223,7 +223,7 @@
         "warped_stem": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:stripped_warped_stem",
+                "recipes": [ "better-crafting-recipes:stripped_warped_stem" ],
                 "ingredients": [
                     {
                         "items": "minecraft:warped_stem"

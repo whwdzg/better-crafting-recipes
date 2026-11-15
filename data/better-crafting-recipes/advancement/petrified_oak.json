@@ -3,7 +3,7 @@
         "petrified_oak_slab": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:petrified_oak_slab",
+                "recipes": [ "better-crafting-recipes:petrified_oak_slab" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:stone_slab","minecraft:oak_slab"]

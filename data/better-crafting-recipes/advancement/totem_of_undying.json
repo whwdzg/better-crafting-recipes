@@ -3,7 +3,7 @@
         "totem_of_undying": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:totem_of_undying",
+                "recipes": [ "better-crafting-recipes:totem_of_undying" ],
                 "ingredients": [
                     {
                         "items": ["minecraft:experience_bottle","minecraft:enchanted_golden_apple","minecraft:gold_ingot"]

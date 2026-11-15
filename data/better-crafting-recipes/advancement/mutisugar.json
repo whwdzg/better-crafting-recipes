@@ -3,7 +3,7 @@
         "sugar_1": {    
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:sugar_1",
+                "recipes": [ "better-crafting-recipes:sugar_1" ],
                 "ingredients": [
                     {
                         "items": "#better-crafting-recipes:sugar_resource_1"
@@ -14,7 +14,7 @@
         "sugar_3":{
             "trigger": "minecraft:recipe_crafted",    
             "conditions": {
-                "recipe_id": "better-crafting-recipes:sugar_3",
+                "recipes": [ "better-crafting-recipes:sugar_3" ],
                 "ingredients": [
                     {
                         "items": "#better-crafting-recipes:sugar_resource_3"
